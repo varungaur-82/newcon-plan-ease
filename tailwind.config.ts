@@ -52,10 +52,14 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
-				construction: {
-					orange: 'hsl(var(--construction-orange))',
-					dark: 'hsl(var(--construction-dark))',
-					light: 'hsl(var(--construction-light))'
+				monday: {
+					blue: 'hsl(var(--monday-blue))',
+					purple: 'hsl(var(--monday-purple))',
+					green: 'hsl(var(--monday-green))',
+					orange: 'hsl(var(--monday-orange))',
+					dark: 'hsl(var(--monday-dark))',
+					light: 'hsl(var(--monday-light))',
+					gray: 'hsl(var(--monday-gray))'
 				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
